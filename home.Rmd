@@ -1,6 +1,6 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Best Chai Lattes"
+image: "chai latte.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
